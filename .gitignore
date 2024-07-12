@@ -1,0 +1,8 @@
+# Environnement virtuel à masquer
+venv/
+
+# Fichiers de configuration vs code
+.vscode/
+
+# Fichiers python de cache
+__pycache__/
