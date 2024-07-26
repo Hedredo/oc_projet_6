@@ -6,3 +6,6 @@ venv/
 
 # Fichiers python de cache
 __pycache__/
+
+# Dossier pour Glove
+Glove/
