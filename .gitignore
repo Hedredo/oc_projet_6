@@ -1,5 +1,5 @@
 # Environnement virtuel à masquer
-venv/
+.venv/
 
 # Fichiers de configuration vs code
 .vscode/
