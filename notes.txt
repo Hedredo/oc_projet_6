@@ -1,0 +1,22 @@
+# Mentorat 16/09/2024
+
+## Objectifs
+- ARI corrigé sur la partie CNN + SIFT
+- Classification avec EfficientNet avec ou sans data augmentation
+- Extraction de la base de données pour le "champagne"
+
+## Questions
+- Cross-validation sur 5 splits pour la classification avec EfficientNet ?
+- Notebook avec technique récente ?
+- As-tu la grille d'évaluation ? Je ne la trouve pas
+
+## A faire
+- Structure de la présentation
+    - Introduction (présentation du problème et des données)
+    - Etude de faisabilité (image + texte) -> Modèle EfficientNet le + performant
+    - Classification avec modèle EfficientNet avec ou sans data augmentation
+    - Test de l'API
+- Nettoyage partie ARI texte
+- Nettoyer les notebooks
+
+https://openclassrooms.com/fr/paths/795/projects/1519/livrables-et-soutenance
