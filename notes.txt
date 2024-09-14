@@ -10,6 +10,12 @@
 - Notebook avec technique récente ?
 - As-tu la grille d'évaluation ? Je ne la trouve pas
 
+Nom_Prénom_1_notebook_pretraitement_feature_extraction_faisaibilite_mmaaaa
+Nom_Prénom_2_notebook_classification_mmaaaa
+Nom_Prénom_3_notebook_traitement_avec_technique_recente_mmaaaa
+Nom_Prénom_4_script_Python_mmaaaa
+Nom_Prénom_5_presentation_mmaaaa
+
 ## A faire
 - Structure de la présentation
     - Introduction (présentation du problème et des données)
