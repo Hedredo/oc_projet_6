@@ -10,8 +10,8 @@
 		X Dégèle uniquement des dernières couches (classiques) avec ou Sans Data Augmentation (commencer avec Learning rate à 3)
 		X Idem mais avec couches denses alternative (1 puis 2)
 		X Test avec dégele de davantage de couches si le modèle overfit rapidement
-	- Reprendre les scénario 3 uniquement avec les deux meilleurs modèles et dégel des couches (test à 4/6)
-	- Reprendre le scénario 4 avec le meilleur modèle tout confondu + data augmentation
+	X Reprendre les scénario 3 uniquement avec les deux meilleurs modèles et dégel des couches (test à 4/6)
+	- Exécuter le scénario 4 avec le meilleur modèle tout confondu + data augmentation
 	- Commenter le notebook 
 - Préparer la présentation et développer le plan
     	- Introduction (présentation du problème et des données)
