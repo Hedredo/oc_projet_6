@@ -5,12 +5,14 @@
 	- Faisabilité texte
 	- Faisabilité image
 - Partie classification
-	- Intégrer dans la classification un train test split
-	- Ensuite faire un jeu de validation
-		- Dégèle uniquement des dernières couches (classiques) avec ou Sans Data Augmentation (commencer avec Learning rate à 3)
-		- Idem mais avec couches denses alternative (1 puis 2)
-		- Test avec dégele de davantage de couches si le modèle overfit rapidement
-	- Choisir les meilleurs résultats entre EfficientNet et Inception
+	X Intégrer dans la classification un train test split
+	X Ensuite faire un jeu de validation
+		X Dégèle uniquement des dernières couches (classiques) avec ou Sans Data Augmentation (commencer avec Learning rate à 3)
+		X Idem mais avec couches denses alternative (1 puis 2)
+		X Test avec dégele de davantage de couches si le modèle overfit rapidement
+	- Reprendre les scénario 3 uniquement avec les deux meilleurs modèles et dégel des couches (test à 4/6)
+	- Reprendre le scénario 4 avec le meilleur modèle tout confondu + data augmentation
+	- Commenter le notebook 
 - Préparer la présentation et développer le plan
     	- Introduction (présentation du problème et des données)
     	- Etude de faisabilité (image + texte) -> Modèle EfficientNet le + performant
