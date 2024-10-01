@@ -7,5 +7,6 @@
 # Fichiers python de cache
 __pycache__/
 
-# Dossier pour Glove
+# Dossier pour Glove et word2vec
 Glove/
+word2vec/
