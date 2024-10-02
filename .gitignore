@@ -10,3 +10,4 @@ __pycache__/
 # Dossier pour Glove et word2vec
 Glove/
 word2vec/
+all-mpnet-base-v2/
