@@ -11,3 +11,5 @@ __pycache__/
 Glove/
 word2vec/
 all-mpnet-base-v2/
+poids/
+Livrables/
